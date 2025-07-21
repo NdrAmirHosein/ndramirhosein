@@ -1,7 +1,7 @@
 ## Hi there This is Amir Hosein👋\n
-🎓 Computer Science student
-💻 Passionate about cybersecurity, networking, backend development, and algorithms
-♾️ Still learning FOREVER AND a DAY
+- 🎓 Computer Science student
+-💻 Passionate about cybersecurity, networking, backend development, and algorithms
+-♾️ Still learning FOREVER AND a DAY
 
 ## 🛠️ My Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
@@ -10,8 +10,8 @@
 
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ndramirhosein&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ndramirhosein&layout=compact)
 
 
 ## 🎯 Current Goals
@@ -22,8 +22,7 @@
 
 
 ## 📬 Contact Me
-- Email: your@email.com
-- Telegram: [@yourtelegram](https://t.me/yourtelegram)
+- Telegram: [@yourtelegram](https://t.me/NdrAmirhosein)
 
 
 
