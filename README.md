@@ -1,7 +1,7 @@
 ## Hi there This is Amir Hosein👋\n
 - 🎓 Computer Science student
--💻 Passionate about cybersecurity, networking, backend development, and algorithms
--♾️ Still learning FOREVER AND a DAY
+- 💻 Passionate about cybersecurity, networking, backend development, and algorithms
+- ♾️ Still learning FOREVER AND a DAY
 
 ## 🛠️ My Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
