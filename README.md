@@ -10,8 +10,8 @@
 
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ndramirhosein&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ndramirhosein&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ndramirhosein&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ndramirhosein&layout=compact&theme=buefy&hide_border=true)
 
 
 ## 🎯 Current Goals
