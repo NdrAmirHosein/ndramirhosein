@@ -10,7 +10,7 @@
 
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ndramirhosein&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ndramirhosein&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ndramirhosein&layout=compact)
 
 
