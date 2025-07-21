@@ -1,4 +1,31 @@
-## Hi there 👋
+## Hi there This is Amir Hosein👋\n
+🎓 Computer Science student
+💻 Passionate about cybersecurity, networking, backend development, and algorithms
+♾️ Still learning FOREVER AND a DAY
+
+## 🛠️ My Tech Stack
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+
+
+## 🎯 Current Goals
+- 🔭 Just end what I started
+- 📚 Learning networking and stuff
+- 🌱 Learning and working on SQL and XAMPP stuff
+- 🏆 Study some intersting Algorithms
+
+
+## 📬 Contact Me
+- Email: your@email.com
+- Telegram: [@yourtelegram](https://t.me/yourtelegram)
+
+
 
 <!--
 **NdrAmirHosein/ndramirhosein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
