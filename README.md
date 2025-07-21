@@ -6,7 +6,7 @@
 ## 🛠️ My Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+![MySQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql)
 
 
 ## 📊 GitHub Stats
@@ -22,7 +22,7 @@
 
 
 ## 📬 Contact Me
-- Telegram: [@yourtelegram](https://t.me/NdrAmirhosein)
+- Telegram: [@NdrAmirhosein](https://t.me/NdrAmirhosein)
 
 
 
