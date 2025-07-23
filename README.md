@@ -16,9 +16,10 @@
 
 ## 🎯 Current Goals
 - 🔭 Just end what I started
-- 📚 Learning networking and stuff
+- 📚 Learning network, CCNA and stuff
 - 🌱 Learning and working on SQL and XAMPP stuff
 - 🏆 Study some intersting Algorithms
+- 💻 Django
 
 
 ## 📬 Contact Me
