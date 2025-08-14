@@ -6,9 +6,8 @@
 ## 🛠️ My Tech Stack
 [![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)](https://www.python.org/)
 [![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)](https://cplusplus.com/)
-[![Django](https://img.shields.io/badge/Django-5.1-green?logo=django&logoColor=white)](https://www.djangoproject.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-blue?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-
+[![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)](https://www.djangoproject.com/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)](https://www.postgresql.org/)
 
 
 ## 📊 GitHub Stats
