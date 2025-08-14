@@ -6,7 +6,7 @@
 ## 🛠️ My Tech Stack
 [![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)](https://www.python.org/)
 [![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)](https://cplusplus.com/)
-[![MySQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=posgresql)](https://www.postgresql.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-blue)](https://www.postgresql.org/)
 [![Django](https://img.shields.io/badge/Django-5.1-green)](https://www.djangoproject.com/)
 
 
